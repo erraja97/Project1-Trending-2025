@@ -2,7 +2,7 @@
 This project is a part of Full stack Javascript Bootcamp. In this project i have used basic HTML and CSS to bring out final result.
 
 ## Project Link
-[Trending 2025](https://radiant-cuchufli-1b05dc.netlify.app/)
+### [Trending 2025](https://trending-2025.netlify.app/)
 
 ## Snapshot
 
